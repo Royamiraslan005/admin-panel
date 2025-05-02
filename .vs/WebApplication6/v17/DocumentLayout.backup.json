@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\areas\\manage\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\areas\\manage\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\webapplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\webapplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\migrations\\20250501081444_createsometable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20250501081444_createsometable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|c:\\users\\i novbe\\source\\repos\\webapplication6\\webapplication6\\migrations\\20250501081819_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD7EA09-4A8D-4433-AB19-9C336F7FB5C7}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20250501081819_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Areas\\Manage\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Areas\\Manage\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Areas\\Manage\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication6\\Areas\\Manage\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T08:37:03.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication6\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAWwJQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T08:36:47.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAADEBAAAAAAAAAAAkwFkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T08:18:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApplication6\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:17:14.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication6\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication6\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-02T08:08:35.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T08:00:03.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAKoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T07:30:42.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication6\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.json",
+              "RelativeToolTip": "WebApplication6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T07:24:38.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication6\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:49:09.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:37:02.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "WebApplication6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:18:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:09:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApplication6.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+              "RelativeDocumentMoniker": "WebApplication6\\WebApplication6.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+              "RelativeToolTip": "WebApplication6\\WebApplication6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T04:08:39.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250501081444_CreateSomeTable.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250501081444_CreateSomeTable.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20250501081444_CreateSomeTable.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250501081444_CreateSomeTable.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20250501081444_CreateSomeTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:14:45.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:15:21.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:36:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKIAAAAAAAAAAIAwwAUBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T04:09:54.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250501081819_createtables.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250501081819_createtables.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20250501081819_createtables.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250501081819_createtables.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20250501081819_createtables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:18:19.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication6\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication6\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T08:09:49.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T04:10:55.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAOAEAAAAAAAAAAAIwOcEAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T04:09:37.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Models\\ProductImage.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:40:32.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:35:35.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
