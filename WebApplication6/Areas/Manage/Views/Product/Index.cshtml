@@ -1,0 +1,35 @@
+﻿@using WebApplication6.Models
+@model List<Product>
+<div class="container">
+    <h1>Categories</h1>
+    <a asp-action="Create" class="btn btn-submit">Create</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Product count</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                
+                <tr>
+                  
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.Description</td>
+                  <td>@item.CategoryId</td>
+                    <td><img width="100px" src="~/images/@item.ImgUrl" /></td>
+
+                    <td> <a class="btn btn-dark" asp-action="Delete" asp-route-id="@item.Id">Delete</a></td>
+                    <td> <a class="btn btn-danger" asp-action="Update" asp-route-id="@item.Id">Update</a></td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

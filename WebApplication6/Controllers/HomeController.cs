@@ -5,7 +5,7 @@ using WebApplication6.Models;
 
 namespace WebApplication6.Controllers
 {
-    [Area("Manage")]
+
     public class HomeController : Controller
     {
         AppDbContext _context;

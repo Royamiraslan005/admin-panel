@@ -1,0 +1,26 @@
+﻿@using WebApplication6.Models
+@model Product
+<div class="container">
+    <form asp-action="Update" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" class="form-control">
+
+
+            <label asp-for="Description">Designation</label>
+            <input asp-for="Description" class="form-control">
+
+            <label asp-for="CategoryId">CategoryId</label>
+            <input asp-for="CategoryId" class="form-control">
+
+            <label asp-for="formFile.Name">ImageUrl</label>
+            <input asp-for="ImgUrl" class="form-control">
+
+
+            <label asp-for="formFile">File</label>
+            <input type="file" asp-for="formFile" class="form-control">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

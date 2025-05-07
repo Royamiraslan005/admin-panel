@@ -8261,6 +8261,10 @@
       "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
     },
     {
+      "Id": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\wwwroot\\images\\83a541e8-5161-4e6b-a94f-8050c00549ecmy-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg",
+      "PackagePath": "staticwebassets\\images\\83a541e8-5161-4e6b-a94f-8050c00549ecmy-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

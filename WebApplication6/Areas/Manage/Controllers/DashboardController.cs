@@ -3,7 +3,7 @@
 namespace WebApplication6.Areas.Manage.Controllers
 {
     [Area("Manage")]
-    public class DashboardController : Controller
+    public class DashBoardController : Controller
     {
         public IActionResult Index()
         {

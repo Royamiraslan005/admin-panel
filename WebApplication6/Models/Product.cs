@@ -1,4 +1,5 @@
-﻿using WebApplication6.Models.Base;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using WebApplication6.Models.Base;
 
 namespace WebApplication6.Models
 {
@@ -10,5 +11,11 @@ namespace WebApplication6.Models
         public List<ProductImage> Images { get; set; }
         public int CategoryId {  get; set; }
         public Category Category { get; set; }
+        public string ImgUrl {  get; set; }
+
+
+        [NotMapped]
+
+        public IFormFile formFile { get; set; }
     }
 }
