@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yKJFZgo7CXhmJo3gYxKFdM9cSLCwweuisETSEtGhm+4=",
+  "Hash": "jFQmulGtrfsZSiAgvESFHN7XjdI7cyNmZBKhmRQA4YM=",
   "Source": "WebApplication6",
   "BasePath": "_content/WebApplication6",
   "Mode": "Default",
@@ -4007,6 +4007,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\style.scss"
     },
     {
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\wwwroot\\images\\332ba710-510d-49a6-9886-e0e1a928072aminion.webp",
+      "SourceId": "WebApplication6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\wwwroot\\",
+      "BasePath": "_content/WebApplication6",
+      "RelativePath": "images/332ba710-510d-49a6-9886-e0e1a928072aminion.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\332ba710-510d-49a6-9886-e0e1a928072aminion.webp"
+    },
+    {
       "Identity": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\wwwroot\\images\\83a541e8-5161-4e6b-a94f-8050c00549ecmy-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg",
       "SourceId": "WebApplication6",
       "SourceType": "Discovered",
@@ -4024,6 +4043,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\83a541e8-5161-4e6b-a94f-8050c00549ecmy-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\wwwroot\\images\\f1d4c8ab-9823-4e33-854d-a16e5e5fa6e8my-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg",
+      "SourceId": "WebApplication6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\wwwroot\\",
+      "BasePath": "_content/WebApplication6",
+      "RelativePath": "images/f1d4c8ab-9823-4e33-854d-a16e5e5fa6e8my-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f1d4c8ab-9823-4e33-854d-a16e5e5fa6e8my-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg"
     },
     {
       "Identity": "C:\\Users\\I Novbe\\source\\repos\\WebApplication6\\WebApplication6\\wwwroot\\Manage\\css\\sb-admin-2.css",

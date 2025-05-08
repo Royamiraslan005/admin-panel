@@ -3360,6 +3360,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\scss\_wishlist.scss))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\332ba710-510d-49a6-9886-e0e1a928072aminion.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication6</BasePath>
+      <RelativePath>images/332ba710-510d-49a6-9886-e0e1a928072aminion.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\332ba710-510d-49a6-9886-e0e1a928072aminion.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\83a541e8-5161-4e6b-a94f-8050c00549ecmy-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication6</SourceId>
@@ -3375,6 +3391,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\83a541e8-5161-4e6b-a94f-8050c00549ecmy-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\f1d4c8ab-9823-4e33-854d-a16e5e5fa6e8my-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication6</BasePath>
+      <RelativePath>images/f1d4c8ab-9823-4e33-854d-a16e5e5fa6e8my-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\f1d4c8ab-9823-4e33-854d-a16e5e5fa6e8my-arkadas-here-sophia-vera-20-saniyelik-videoyla-kalpleri-kazandi-17318317034179_1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Manage\css\sb-admin-2.css))">
       <SourceType>Package</SourceType>
